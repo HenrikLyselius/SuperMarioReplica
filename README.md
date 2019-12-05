@@ -1,0 +1,1 @@
+A sort of replica of the original Super Mario Bros, built from scratch in Java. This was my first "serious" project, and it is clear that the code contains some...have shall I put it... not optimal programming choices. But the actual game is still quite nice :-)
